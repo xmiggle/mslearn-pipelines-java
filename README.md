@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mquizora/mqdev/_apis/build/status%2Fxmiggle.mslearn-pipelines-java?branchName=main)](https://dev.azure.com/mquizora/mqdev/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
